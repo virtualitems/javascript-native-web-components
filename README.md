@@ -1,6 +1,6 @@
 # Javascript Native Web Components
 
-The javascript native web components are a set of web components that are built using only javascript and the web component api. They are designed to be lightweight and reusable.
+The javascript native web components are a set of web components that are built using only javascript and the browser's *customElements* API. They are designed to be modular, lightweight and reusable.
 
 ## Compatibility
 
