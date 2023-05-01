@@ -43,6 +43,8 @@ The component lifecycle is composed of 4 methods:
 
 ## More information
 
-[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Web_components).
+[Getting started](https://www.thinktecture.com/en/web-components/native-web-components-without-framework)
 
-[Web Components](https://www.webcomponents.org/).
+[MDN guide](https://developer.mozilla.org/en-US/docs/Web/API/Web_components).
+
+[Web components libraries](https://www.webcomponents.org/).
