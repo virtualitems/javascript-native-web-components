@@ -1,6 +1,7 @@
 class WebComponent extends HTMLElement {
 
   /**
+   * @property {NamedNodeMap} attributes
    * @property {ShadowRoot} shadowRoot
    * @property {HTMLTemplateElement} template
    */
